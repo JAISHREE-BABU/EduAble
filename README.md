@@ -22,7 +22,7 @@ EduAble is a voice-based AI assistant that helps visually impaired students acce
 
 1. Clone the repository
 ```bash
-   git clone https://github.com/JAISHREE-BABU/EduAble-AI-Assistant.git
+   git clone https://github.com/JAISHREE-BABU/EduAble.git
    cd EduAble-AI-Assistant
 ```
 
